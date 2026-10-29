@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hey, I'm Divyansh Gupta 👋
 
-<!--
-**28-divyanshgupta-glitch/28-divyanshgupta-glitch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 PGDM Student | Business & Technology Enthusiast
 
-Here are some ideas to get you started:
+I'm a management student interested in exploring the intersection of business, technology, and innovation.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 About Me
+- 🎓 Currently pursuing PGDM
+- 💡 Interested in Business Analytics, AI, and Digital Transformation
+- 📚 Currently learning new skills and exploring technology
+- 🎯 Focused on continuous learning and professional growth
+
+### 🛠️ Currently Exploring
+- Business & Data Analytics
+- Artificial Intelligence
+- Technology-driven Business Solutions
+
+### 🤝 Let's Connect
+- 💼 [LinkedIn](https://www.linkedin.com/in/divyansh-gupta-754444260/)
+- 🐙 [GitHub](https://github.com/28-divyanshgupta-glitch)
+
+*"Learn continuously. Improve consistently. Create impact."*
